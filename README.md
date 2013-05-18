@@ -17,7 +17,7 @@ Collection of EmberJS tutorials, insights and more...
 
 + [Testing Ember Apps](http://www.slideshare.net/jo_liss/testing-ember-apps) - Testing Ember Apps: Full-stack integration testing with Capybara(Selenium & friends); client-side integration testing with Konacha (Mocha & friends) from [@jo_liss](http://twitter.com/jo_liss)
 
-+ [Unit testing your EmberJS templates with jasmine](http://toranbillups.com/blog/archive/2013/04/08/Unit-testing-your-emberjs-templates-with-jasmine-part-1/) - Excellent walkthrough tutorial from [@toranb](http://twitter.com/)
++ [Unit testing your EmberJS templates with jasmine](http://toranbillups.com/blog/archive/2013/04/08/Unit-testing-your-emberjs-templates-with-jasmine-part-1/) - Excellent walkthrough tutorial from [@toranb](http://twitter.com/toranb)
 
 + [EmberJS Testing Made Easy & Fast](http://www.youtube.com/watch?v=nO1hxT9GBTs) - From the Seattle meetup in April from [@ebrn](http://twitter.com/ebrn)
 
@@ -31,5 +31,6 @@ Collection of EmberJS tutorials, insights and more...
 
 + [Screencast - Ember Inspector](http://www.youtube.com/watch?v=0B9leRf5kuo) - An initial implementation of the Ember Object inspector that will serve as a primitive in the Ember Debugger.
 
++ [Ember Console Utilities](https://github.com/ebryn/ember-console-utils) - from [@ebrn](http://twitter.com/ebrn)
 
 
