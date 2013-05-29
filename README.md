@@ -19,7 +19,7 @@ Collection of EmberJS tutorials, insights and more...
 
 + [Unit testing your EmberJS templates with jasmine](http://toranbillups.com/blog/archive/2013/04/08/Unit-testing-your-emberjs-templates-with-jasmine-part-1/) - Excellent walkthrough tutorial from [@toranb](http://twitter.com/toranb)
 
-+ [EmberJS Testing Made Easy & Fast](http://www.youtube.com/watch?v=nO1hxT9GBTs) - From the Seattle meetup in April from [@ebrn](http://twitter.com/ebrn)
++ [EmberJS Testing Made Easy & Fast](http://www.youtube.com/watch?v=nO1hxT9GBTs) - From the Seattle meetup in April from [@ebryn](http://twitter.com/ebryn)
 
 ##Tools
 
@@ -31,6 +31,6 @@ Collection of EmberJS tutorials, insights and more...
 
 + [Screencast - Ember Inspector](http://www.youtube.com/watch?v=0B9leRf5kuo) - An initial implementation of the Ember Object inspector that will serve as a primitive in the Ember Debugger.
 
-+ [Ember Console Utilities](https://github.com/ebryn/ember-console-utils) - from [@ebrn](http://twitter.com/ebrn)
++ [Ember Console Utilities](https://github.com/ebryn/ember-console-utils) - from [@ebryn](http://twitter.com/ebryn)
 
 
