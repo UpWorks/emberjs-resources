@@ -13,6 +13,8 @@ Collection of EmberJS tutorials, insights and more...
 
 + [Ember101](http://ember101.com/ "Ember101.com") - Collection of EmberJS screencasts from [@ryanflorence](http://twitter.com/ryanflorence)
 
++ [EmberWatch](http://emberwatch.com/) - All things Ember
+
 ##Testing Ember...wait, can you?
 
 + [Testing Ember Apps](http://www.slideshare.net/jo_liss/testing-ember-apps) - Testing Ember Apps: Full-stack integration testing with Capybara(Selenium & friends); client-side integration testing with Konacha (Mocha & friends) from [@jo_liss](http://twitter.com/jo_liss)
