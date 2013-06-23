@@ -27,6 +27,8 @@ Collection of EmberJS tutorials, insights and more...
 
 + [Ember Tools] (https://github.com/rpflorence/ember-tools) - **This one is hot!** Generators and build tools for Ember applications from [@ryanflorence](http://twitter.com/ryanflorence)
 
+    - [JavaScript Jabber Podcast w/ Ryan Florence] (http://javascriptjabber.com/064-jsj-ember-tools-with-ryan-florence/) - Ryan discusses Ember Tools
+
 + [GruntJS](http://gruntjs.com/) - The Javascript Task Runner
 
 + [Yeoman](http://yeoman.io/) - Yeoman is a collection of tools and best practices working in harmony to make developing for the web better.
