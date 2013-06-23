@@ -35,4 +35,4 @@ Collection of EmberJS tutorials, insights and more...
 
 + [Ember Console Utilities](https://github.com/ebryn/ember-console-utils) - from [@ebryn](http://twitter.com/ebryn)
 
-+ [Ember Tools] (https://github.com/rpflorence/ember-tools) - *This one is hot!* Generators and build tools for Ember applications from [@ryanflorence](http://twitter.com/ryanflorence)
++ [Ember Tools] (https://github.com/rpflorence/ember-tools) - **This one is hot!** Generators and build tools for Ember applications from [@ryanflorence](http://twitter.com/ryanflorence)
